@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bytetcc-common/bytetcc-common.iml" filepath="$PROJECT_DIR$/bytetcc-common/bytetcc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytetcc-core/bytetcc-core.iml" filepath="$PROJECT_DIR$/bytetcc-core/bytetcc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytetcc-parent.iml" filepath="$PROJECT_DIR$/bytetcc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytetcc-supports/bytetcc-supports.iml" filepath="$PROJECT_DIR$/bytetcc-supports/bytetcc-supports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytetcc-supports-dubbo/bytetcc-supports-dubbo.iml" filepath="$PROJECT_DIR$/bytetcc-supports-dubbo/bytetcc-supports-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytetcc-supports-springboot/bytetcc-supports-springboot.iml" filepath="$PROJECT_DIR$/bytetcc-supports-springboot/bytetcc-supports-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytetcc-supports-springcloud/bytetcc-supports-springcloud.iml" filepath="$PROJECT_DIR$/bytetcc-supports-springcloud/bytetcc-supports-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-sample-consumer-0.5.x/springboot-sample-consumer-0.5.x.iml" filepath="$PROJECT_DIR$/springboot-sample-consumer-0.5.x/springboot-sample-consumer-0.5.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-sample-provider-0.5.x/springboot-sample-provider-0.5.x.iml" filepath="$PROJECT_DIR$/springboot-sample-provider-0.5.x/springboot-sample-provider-0.5.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-sample-consumer-0.5.x/springcloud-sample-consumer-0.5.x.iml" filepath="$PROJECT_DIR$/springcloud-sample-consumer-0.5.x/springcloud-sample-consumer-0.5.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-sample-eureka-0.5.x/springcloud-sample-eureka-0.5.x.iml" filepath="$PROJECT_DIR$/springcloud-sample-eureka-0.5.x/springcloud-sample-eureka-0.5.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-sample-provider-0.5.x/springcloud-sample-provider-0.5.x.iml" filepath="$PROJECT_DIR$/springcloud-sample-provider-0.5.x/springcloud-sample-provider-0.5.x.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bytetcc-supports-springcloud" />
+        <module name="springcloud-sample-eureka-0.5.x" />
+        <module name="springcloud-sample-provider-0.5.x" />
+        <module name="bytetcc-supports-springboot" />
+        <module name="bytetcc-supports" />
+        <module name="springboot-sample-provider-0.5.x" />
+        <module name="bytetcc-common" />
+        <module name="bytetcc-supports-dubbo" />
+        <module name="springboot-sample-consumer-0.5.x" />
+        <module name="springcloud-sample-consumer-0.5.x" />
+        <module name="bytetcc-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bytetcc-common" target="1.5" />
+      <module name="bytetcc-core" target="1.5" />
+      <module name="bytetcc-parent" target="1.5" />
+      <module name="bytetcc-supports" target="1.5" />
+      <module name="bytetcc-supports-dubbo" target="1.5" />
+      <module name="bytetcc-supports-springboot" target="1.5" />
+      <module name="bytetcc-supports-springcloud" target="1.5" />
+      <module name="springboot-sample-consumer-0.5.x" target="1.8" />
+      <module name="springboot-sample-provider-0.5.x" target="1.8" />
+      <module name="springcloud-sample-consumer-0.5.x" target="1.5" />
+      <module name="springcloud-sample-eureka-0.5.x" target="1.5" />
+      <module name="springcloud-sample-provider-0.5.x" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

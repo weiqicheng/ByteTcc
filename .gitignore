@@ -1,0 +1,29 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.settings
+/bytetcc-common/.classpath
+/bytetcc-common/.gitignore
+/bytetcc-common/.project
+/bytetcc-core/.classpath
+/bytetcc-core/.gitignore
+/bytetcc-core/.project
+/bytetcc-supports/.classpath
+/bytetcc-supports/.gitignore
+/bytetcc-supports/.project
+target
+/bytetcc-supports-dubbo/.classpath
+/bytetcc-supports-dubbo/.project
+/bytetcc-supports-springcloud/.classpath
+/bytetcc-supports-springcloud/.project
+/bytetcc-supports-springboot/.classpath
+/bytetcc-supports-springboot/.project

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports-dubbo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports-springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports-springboot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports-springcloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports-springcloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports-springcloud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bytetcc-supports/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-sample-consumer-0.5.x" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-sample-consumer-0.5.x/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-sample-consumer-0.5.x/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-sample-provider-0.5.x" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-sample-provider-0.5.x/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-sample-provider-0.5.x/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-sample-consumer-0.5.x" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-sample-consumer-0.5.x/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-sample-consumer-0.5.x/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-sample-eureka-0.5.x" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-sample-eureka-0.5.x/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-sample-eureka-0.5.x/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-sample-provider-0.5.x" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-sample-provider-0.5.x/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-sample-provider-0.5.x/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
